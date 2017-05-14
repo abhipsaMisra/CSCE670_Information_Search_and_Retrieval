@@ -1,0 +1,4 @@
+B005HKEJO6 Q YN 6011 6 does this vent to the outside does this vent to the outside
+B005HKEJO6 A Y 6011 7 yes in my case through the ceiling Yes, in my case through the ceiling
+B001DHLTU4 Q YN 1889 7 is this one work with model rcc3024 Is this one work with model RCC3024
+B001DHLTU4 A Y 1889 4 yes it works fine Yes, it works fine
