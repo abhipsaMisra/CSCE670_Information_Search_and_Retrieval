@@ -88,7 +88,7 @@ def retrieval(use_stemming, use_casefolding, data_path):
     retrieve_results(use_stemming, use_casefolding,search_text, index)
 
 index = defaultdict(list)
-data_path = './southpark_scripts'
+data_path = '../data/southpark_scripts/'
 use_stemming = True
 use_casefolding = True
 retrieval(use_stemming, use_casefolding,data_path)

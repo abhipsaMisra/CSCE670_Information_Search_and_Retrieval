@@ -13,7 +13,7 @@ class Rank_retrieval:
     def __init__(self):
         self.index= defaultdict(list)
 #        self.data_path = './southpark_scripts_subset'
-        self.data_path = './southpark_scripts'
+        self.data_path = '../data/southpark_scripts/'
         self.use_stemming = True
         self.use_casefolding = True
         self.no_of_docs = 0

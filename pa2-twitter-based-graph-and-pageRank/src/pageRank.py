@@ -8,7 +8,7 @@ class pageRank:
     def __init__(self):
         self.user_graph = defaultdict(list)
         self.edge_count = 0
-        self.data_path = './'
+        self.data_path = '../data/'
         self.page_rank = defaultdict(list)
         self.page_rank_prev = defaultdict(list)
         self.top_list = defaultdict(list)

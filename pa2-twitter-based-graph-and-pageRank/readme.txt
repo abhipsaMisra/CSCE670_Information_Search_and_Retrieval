@@ -19,7 +19,7 @@ Notes:
 * Correctly parsing @mentions in a tweet is error-prone. Use the entities field.
 
 Compile and Run:
-Place the code and the pagerank.json file in the same path and run 
+Clone the src and data folders, navigate to src folder and run 
 Python pageRank.py
 
 Output:
@@ -43,7 +43,7 @@ You should follow these rules:
 * If a user is never mentioned and does not mention anyone, their PageRank scores should be zero. Do not include the user in the calculation.
 
 Compile and Run:
-Place the code and the pagerank.json file in the same path and run 
+Clone the src and data folders, navigate to src folder and run 
 Python pageRank.py
 
 Output:

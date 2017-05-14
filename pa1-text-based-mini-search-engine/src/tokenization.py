@@ -7,7 +7,7 @@ import time
 from nltk.stem.porter import PorterStemmer
 
 def tokenize(use_stemming, use_casefolding):
-    data_path = './southpark_scripts'
+    data_path = '../data/southpark_scripts/'
     porter_stemmer = PorterStemmer()
     wordlist = set()
     for fname in os.listdir(data_path):
